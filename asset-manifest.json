@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot-hailt/static/css/main.acaecded.css",
+    "main.js": "/robot-hailt/static/js/main.c4e31794.js",
+    "static/js/787.58d10415.chunk.js": "/robot-hailt/static/js/787.58d10415.chunk.js",
+    "index.html": "/robot-hailt/index.html",
+    "main.acaecded.css.map": "/robot-hailt/static/css/main.acaecded.css.map",
+    "main.c4e31794.js.map": "/robot-hailt/static/js/main.c4e31794.js.map",
+    "787.58d10415.chunk.js.map": "/robot-hailt/static/js/787.58d10415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acaecded.css",
+    "static/js/main.c4e31794.js"
+  ]
+}
